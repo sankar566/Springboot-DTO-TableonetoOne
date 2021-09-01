@@ -1,0 +1,5 @@
+com\vghs\student\model\StudentData.class
+com\vghs\student\repository\HomeRepo.class
+com\vghs\student\service\HomeService.class
+com\vghs\student\controller\HomeController.class
+com\vghs\student\VghsApplication.class
