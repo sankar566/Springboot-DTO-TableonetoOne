@@ -1,0 +1,15 @@
+com\vmhs\student\dto\StudentDataDto.class
+com\vmhs\student\model\AdmissionOpen.class
+com\vmhs\student\service\AdmissionService.class
+com\vmhs\student\model\Department.class
+com\vmhs\student\model\StudentData.class
+com\vmhs\student\service\HomeService.class
+com\vmhs\student\dto\StudentDepartmentDto.class
+com\vmhs\student\repository\DepartmentRepo.class
+com\vmhs\student\controller\HomeController.class
+com\vmhs\student\controller\AdmissionController.class
+com\vmhs\student\dto\AdmissionOpenDto.class
+com\vmhs\student\repository\HomeRepo.class
+com\vmhs\student\VmhsApplication.class
+com\vmhs\student\repository\AdmissionOpenRepo.class
+com\vmhs\student\dto\DepartmentDto.class
